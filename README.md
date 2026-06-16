@@ -6,7 +6,7 @@ Sou apaixonado por inteligência artificial, automação e integração de ferra
 
 ---
 
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Losthc&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&include_all_commits=true)](https://github.com/Losthc) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Losthc&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&langs_count=8)](https://github.com/Losthc) |
+| ![](./profile/stats.svg) | ![](./profile/top-langs.svg) |
 |---|---|
 
 ---
