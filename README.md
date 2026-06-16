@@ -39,7 +39,7 @@ goal: "Construir ferramentas que amplificam o potencial humano com IA"
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Losthc&theme=darkhub&no-frame=true&no-bg=false&column=7&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Losthc&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
 <br>
