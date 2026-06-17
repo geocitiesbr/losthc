@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Losthc">
-    <img width="100%" src="./profile/banner.svg" alt="Losthc Banner" />
-  </a>
+  <img src="./profile/banner.svg" alt="Losthc Banner" />
 </p>
 
 Desenvolvedor Full-Stack & Entusiasta de IA do Brasil 🇧🇷
