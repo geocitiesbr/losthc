@@ -4,50 +4,55 @@
 
 <br>
 
-```yaml
-name: Gabriel Henrique
-alias: Losthc
-located_in: Brazil
-job: Desenvolvedor Full-Stack & Entusiasta de IA
-
-current_focus:
-  - Agentes inteligentes com Claude + MCP
-  - Automação de workflows
-  - Open-source
-
-tech_stack:
-  frontend: [TypeScript, React, Next.js, HTML, CSS]
-  backend: [Node.js, Python]
-  ai_tools: [Claude, MCP, LangChain]
-  tools: [Git, VS Code, Docker]
-
-goal: "Construir ferramentas que amplificam o potencial humano com IA"
-```
+<!-- Profile Card -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="180" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=Losthc&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&text_color=c9d1d9&icon_color=58A6FF&include_all_commits=true" width="380" />
+      </td>
+      <td width="180" align="center" valign="top">
+        <img src="./profile/top-langs.svg" width="290" />
+      </td>
+      <td width="200" align="left" valign="top">
+        <table>
+          <tr><td><b>👤</b></td><td>Gabriel Henrique</td></tr>
+          <tr><td><b>🏷️</b></td><td>@Losthc</td></tr>
+          <tr><td><b>📍</b></td><td>Brazil</td></tr>
+          <tr><td><b>💼</b></td><td>Full-Stack & AI Enthusiast</td></tr>
+          <tr><td><b>🎯</b></td><td>Amplificar potencial humano com IA</td></tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="./profile/stats.svg" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="./profile/top-langs.svg" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<!-- Activity Graph -->
+<!-- Activity Graph Card -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Losthc&theme=github-dark&hide_border=true&area=true&bg_color=0D1117" width="95%" alt="Activity Graph" />
 </div>
 
 <br>
 
----
+<!-- Stats Row -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="./profile/stats.svg" width="420" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Losthc&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6600&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-### ⚡ Tech Stack
+<br>
 
+<!-- Tech Stack Card -->
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -62,47 +67,45 @@ goal: "Construir ferramentas que amplificam o potencial humano com IA"
 
 ---
 
-### 📌 Sobre mim
-
-```diff
-+ 🔭 Atualmente explorando: Agentes de IA, MCP, automação
-+ 🌱 Aprendendo: Arquitetura de agentes, LLMs, sistemas distribuídos
-+ 👯 Buscando colaborar em: Projetos open-source de IA
-+ 💡 Interesses: Inteligência Artificial · Automação · Open Source · MCP
-+ ⚡ Fato: Comecei do zero e estou construindo meu caminho um commit por vez
-```
-
----
-
-### 📊 GitHub Analytics
-
+<!-- Sobre mim -->
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Losthc&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6600&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" />
+
+### 🧠 Sobre mim
+
+| | |
+|---|---|
+| 🔭 | Atualmente explorando: Agentes de IA, MCP, automação |
+| 🌱 | Aprendendo: Arquitetura de agentes, LLMs, sistemas distribuídos |
+| 👯 | Buscando colaborar em: Projetos open-source de IA |
+| 💡 | Interesses: Inteligência Artificial · Automação · Open Source · MCP |
+| ⚡ | Fato: Comecei do zero e estou construindo meu caminho um commit por vez |
+
 </div>
 
 ---
 
-### 📫 Onde me encontrar
-
+<!-- Contact -->
 <div align="center">
-  <a href="https://github.com/Losthc">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://wa.me/556199577596">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/ghendias">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
 
-<br>
+### 📬 Onde me encontrar
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Losthc&label=Profile+Views&color=58A6FF&style=flat" alt="Profile views" />
-</div>
+<a href="https://github.com/Losthc">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://wa.me/556199577596">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://instagram.com/ghendias">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-<div align="center">
-  <sub>⚡ "Code is poetry in motion"</sub>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Losthc&label=Profile+Views&color=58A6FF&style=flat" alt="Profile views" />
+
+<br><br>
+
+<sub>⚡ "Code is poetry in motion"</sub>
+
 </div>
 
