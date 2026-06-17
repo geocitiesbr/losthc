@@ -27,8 +27,10 @@ Desenvolvedor Full-Stack & Entusiasta de IA do Brasil 🇧🇷
 <br>
 <br>
 
-| <a href="https://github.com/Losthc"><img src="https://github-readme-stats.vercel.app/api?username=Losthc&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&text_color=c9d1d9&icon_color=58A6FF&include_all_commits=true" /></a> | <img src="./profile/top-langs.svg" alt="Top Languages" /> |
-|---|---|
+<p align="center">
+  <img src="./profile/stats.svg" alt="Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
 
 <br>
 
