@@ -1,44 +1,108 @@
-<p align="center">
+<div align="center">
+  <img src="./profile/neurobrain-banner.svg" alt="NeuroBrain Banner" width="100%" />
+</div>
+
+<br>
+
+```yaml
+name: Gabriel Henrique
+alias: Losthc
+located_in: Brazil
+job: Desenvolvedor Full-Stack & Entusiasta de IA
+
+current_focus:
+  - Agentes inteligentes com Claude + MCP
+  - Automação de workflows
+  - Open-source
+
+tech_stack:
+  frontend: [TypeScript, React, Next.js, HTML, CSS]
+  backend: [Node.js, Python]
+  ai_tools: [Claude, MCP, LangChain]
+  tools: [Git, VS Code, Docker]
+
+goal: "Construir ferramentas que amplificam o potencial humano com IA"
+```
+
+<br>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="./profile/stats.svg" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="./profile/top-langs.svg" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Losthc&theme=github-dark&hide_border=true&area=true&bg_color=0D1117" width="95%" alt="Activity Graph" />
+</div>
+
+<br>
+
+---
+
+### ⚡ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-FF6600?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+---
+
+### 📌 Sobre mim
+
+```diff
++ 🔭 Atualmente explorando: Agentes de IA, MCP, automação
++ 🌱 Aprendendo: Arquitetura de agentes, LLMs, sistemas distribuídos
++ 👯 Buscando colaborar em: Projetos open-source de IA
++ 💡 Interesses: Inteligência Artificial · Automação · Open Source · MCP
++ ⚡ Fato: Comecei do zero e estou construindo meu caminho um commit por vez
+```
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Losthc&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6600&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" />
+</div>
+
+---
+
+### 📫 Onde me encontrar
+
+<div align="center">
   <a href="https://github.com/Losthc">
-    <img width="100%" src="./profile/banner.svg" alt="Losthc Banner" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-Desenvolvedor Full-Stack & Entusiasta de IA do Brasil 🇧🇷
-
-**Sobre mim**
-
-- 🔭 Explorando agentes de IA, MCP e automação de workflows
-- 🌱 Aprendendo arquitetura de agentes, LLMs e sistemas distribuídos
-- ⚡ Fato: Comecei do zero, estou construindo meu caminho um commit por vez
-
-**Tech Stack**
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-FF6600?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=github&logoColor=white" />
-
-<br>
-<br>
-
-<p align="center">
-  <img src="./profile/stats.svg" alt="Stats" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
-</p>
+  <a href="https://wa.me/556199577596">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ghendias">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
 <br>
 
-<p align="center">
-  <a href="https://wa.me/556199577596"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://instagram.com/ghendias"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/Losthc"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Losthc&label=Profile+Views&color=58A6FF&style=flat-square" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Losthc&label=Profile+Views&color=58A6FF&style=flat" alt="Profile views" />
+</div>
+
+<div align="center">
+  <sub>⚡ "Code is poetry in motion"</sub>
+</div>
 
