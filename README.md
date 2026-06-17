@@ -86,7 +86,12 @@ goal: "Construir ferramentas que amplificam o potencial humano com IA"
   <a href="https://github.com/Losthc">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
+  <a href="https://wa.me/556199577596">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ghendias">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
 
 <br>
