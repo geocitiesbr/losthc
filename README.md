@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=80&lines=Gabriel+Henrique;Full-Stack+%26+AI+Developer;Building+the+future+with+code" alt="Typing SVG" />
+  <img src="./profile/banner.svg" alt="Banner" width="100%" />
 </div>
+
+<br>
 
 ```yaml
 name: Gabriel Henrique
